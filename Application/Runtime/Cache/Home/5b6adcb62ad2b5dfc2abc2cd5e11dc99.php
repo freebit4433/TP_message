@@ -3,21 +3,21 @@
 <head>
 	<meta charset="UTF-8">
 	<title>login page</title>
-	<link rel="stylesheet" href="/Public/Home/css/login.css">
-	<link rel="stylesheet" href="/Public/Home/easyui/themes/default/easyui.css" />
-	<script type="text/javascript" src="/Public/Home/easyui/jquery.min.js"></script>
-	<script type="text/javascript" src="/Public/Home/easyui/jquery.easyui.min.js"></script>
+	<link rel="stylesheet" href="/TP_message/Public/Home/css/login.css">
+	<link rel="stylesheet" href="/TP_message/Public/Home/easyui/themes/default/easyui.css" />
+	<script type="text/javascript" src="/TP_message/Public/Home/easyui/jquery.min.js"></script>
+	<script type="text/javascript" src="/TP_message/Public/Home/easyui/jquery.easyui.min.js"></script>
 </head>
 <body>
 	<div id="loginWrapper">
 		<div id="loginPanel" class="easyui-panel" title="login">
 			<form action="<?php echo U('Login/submit');?>" method="POST">
 			<div class="inputBorder">
-				<label class="inputLabel" for="userName"><img src="/Public/Home/img/icons/0.png"></label>
+				<label class="inputLabel" for="userName"><img src="/TP_message/Public/Home/img/icons/0.png"></label>
 				<input type="text" id="userName" name="username" class="textInput" placeholder="用户名" autofocus="autofocus">
 			</div>
 			<div class="inputBorder">
-				<label class="inputLabel" for="password"><img src="/Public/Home/img/icons/1.png"></label>
+				<label class="inputLabel" for="password"><img src="/TP_message/Public/Home/img/icons/1.png"></label>
 				<input type="password" id="password" name="password" class="textInput" placeholder="密码">
 			</div>
 			<div id="verifyCode" style="margin-left:50px; margin-bottom:20px;">
