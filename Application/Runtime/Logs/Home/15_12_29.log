@@ -1,0 +1,1782 @@
+[ 2015-12-29T15:36:11+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000485s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007925s ]
+
+[ 2015-12-29T15:36:12+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006237s ]
+
+[ 2015-12-29T15:36:13+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006636s ]
+
+[ 2015-12-29T15:36:22+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006409s ]
+
+[ 2015-12-29T15:36:23+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006075s ]
+
+[ 2015-12-29T15:36:24+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006447s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009917s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0036s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0088s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika12'  [ RunTime:0.0026s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0025s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0012s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0024s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0011s ]
+
+[ 2015-12-29T15:36:35+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009121s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','新的开始','1451374595') [ RunTime:0.0122s ]
+
+[ 2015-12-29T15:36:36+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009349s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0038s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika12'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:44:06+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006876s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009783s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0075s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','测试留言条数开始1','1451375046') [ RunTime:0.0122s ]
+
+[ 2015-12-29T15:44:06+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006636s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009679s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0026s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0038s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0089s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika12'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:44:09+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009559s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','2','1451375049') [ RunTime:0.0130s ]
+
+[ 2015-12-29T15:44:09+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000259s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009619s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0028s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0038s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0087s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika12'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:44:11+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000260s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009654s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','3','1451375051') [ RunTime:0.0134s ]
+
+[ 2015-12-29T15:44:12+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009658s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0074s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika12'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:44:14+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009640s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','4','1451375053') [ RunTime:0.0113s ]
+
+[ 2015-12-29T15:44:14+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009706s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0041s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0089s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0035s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0013s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika12'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0010s ]
+
+[ 2015-12-29T15:44:27+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006801s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009900s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0078s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','5','1451375067') [ RunTime:0.1427s ]
+
+[ 2015-12-29T15:44:28+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009888s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0037s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0086s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0012s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika12'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:44:30+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006165s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009669s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','6','1451375070') [ RunTime:0.0132s ]
+
+[ 2015-12-29T15:44:30+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000283s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006526s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009886s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0038s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika12'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+
+[ 2015-12-29T15:44:32+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009612s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0078s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','','1451375072') [ RunTime:0.0116s ]
+
+[ 2015-12-29T15:44:33+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006572s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009835s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0038s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0087s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika12'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:44:35+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009808s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','7','1451375075') [ RunTime:0.0130s ]
+
+[ 2015-12-29T15:44:35+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006376s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008618s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009684s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0094s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0043s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0091s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika12'  [ RunTime:0.0011s ]
+
+[ 2015-12-29T15:44:37+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000260s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009695s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0075s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','8','1451375077') [ RunTime:0.0141s ]
+
+[ 2015-12-29T15:44:38+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013062s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0037s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:44:41+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000499s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009632s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0089s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','9','1451375081') [ RunTime:0.0127s ]
+
+[ 2015-12-29T15:44:41+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009885s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0041s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0013s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0012s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:48:57+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009756s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0078s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','10','1451375337') [ RunTime:0.0115s ]
+
+[ 2015-12-29T15:48:57+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009589s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0074s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0041s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0089s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:49:00+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009366s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0073s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','11','1451375340') [ RunTime:0.0132s ]
+
+[ 2015-12-29T15:49:01+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009451s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0118s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0038s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0089s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:49:02+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009390s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0075s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','12','1451375342') [ RunTime:0.0118s ]
+
+[ 2015-12-29T15:49:03+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009397s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0075s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:49:04+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009385s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0075s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','13','1451375344') [ RunTime:0.0131s ]
+
+[ 2015-12-29T15:49:05+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006020s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009623s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0078s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0013s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:50:43+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009782s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0079s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','14','1451375443') [ RunTime:0.0118s ]
+
+[ 2015-12-29T15:50:43+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009576s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0039s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0087s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0012s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0012s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:50:45+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006592s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009521s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0075s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','15','1451375445') [ RunTime:0.0132s ]
+
+[ 2015-12-29T15:50:46+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006484s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009607s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0075s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0038s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0089s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+
+[ 2015-12-29T15:50:47+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000258s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006455s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009630s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0075s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','16','1451375447') [ RunTime:0.0135s ]
+
+[ 2015-12-29T15:50:48+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000602s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006555s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009596s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0074s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0026s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0041s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0091s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0012s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0012s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+
+[ 2015-12-29T15:50:49+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010211s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','17','1451375449') [ RunTime:0.0132s ]
+
+[ 2015-12-29T15:50:50+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009908s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0074s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:50:52+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009811s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','18','1451375452') [ RunTime:0.0138s ]
+
+[ 2015-12-29T15:50:52+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009575s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0038s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0091s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:50:54+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010117s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','19','1451375454') [ RunTime:0.1925s ]
+
+[ 2015-12-29T15:50:55+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009581s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0026s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0039s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+
+[ 2015-12-29T15:50:57+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009580s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','20','1451375457') [ RunTime:0.0132s ]
+
+[ 2015-12-29T15:50:57+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009569s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0038s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0087s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:50:59+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009985s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','21','1451375459') [ RunTime:0.0138s ]
+
+[ 2015-12-29T15:51:00+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009545s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0075s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0039s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0091s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+
+[ 2015-12-29T15:51:02+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000260s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009316s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0075s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','22','1451375462') [ RunTime:0.0138s ]
+
+[ 2015-12-29T15:51:02+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000305s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006551s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009591s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0038s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:51:04+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006944s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009565s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','23','1451375464') [ RunTime:0.5019s ]
+
+[ 2015-12-29T15:51:05+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006589s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008597s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009668s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0078s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0028s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0012s ]
+
+[ 2015-12-29T15:51:06+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009486s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0074s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','24','1451375466') [ RunTime:0.0129s ]
+
+[ 2015-12-29T15:51:07+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009598s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0074s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0041s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0013s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:51:09+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009487s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','25','1451375469') [ RunTime:0.0172s ]
+
+[ 2015-12-29T15:51:09+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009592s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0073s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0041s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0027s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0012s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+
+[ 2015-12-29T15:51:11+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009821s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0083s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','26','1451375471') [ RunTime:0.0132s ]
+
+[ 2015-12-29T15:51:12+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006829s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009584s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0079s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0028s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0039s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+
+[ 2015-12-29T15:51:13+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009673s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0074s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','27','1451375473') [ RunTime:0.0137s ]
+
+[ 2015-12-29T15:51:14+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009621s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0028s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0039s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0087s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:51:15+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000260s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014202s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0094s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','28','1451375475') [ RunTime:0.2028s ]
+
+[ 2015-12-29T15:51:16+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009648s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0078s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0029s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0089s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:51:18+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009396s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','29','1451375478') [ RunTime:0.0117s ]
+
+[ 2015-12-29T15:51:18+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009672s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0026s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0042s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0089s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0029s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:51:21+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006553s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009506s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','30','1451375481') [ RunTime:0.0136s ]
+
+[ 2015-12-29T15:51:22+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009899s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0028s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0039s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0092s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:51:24+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000262s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009544s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','31','1451375484') [ RunTime:0.0138s ]
+
+[ 2015-12-29T15:51:25+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009569s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0028s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0041s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0088s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+
+[ 2015-12-29T15:51:27+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006766s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009513s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0087s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','32','1451375486') [ RunTime:0.4055s ]
+
+[ 2015-12-29T15:51:27+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009348s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0026s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0039s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0091s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+
+[ 2015-12-29T15:51:29+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009531s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0074s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','33','1451375489') [ RunTime:0.1933s ]
+
+[ 2015-12-29T15:51:29+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009537s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0028s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0042s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0089s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+
+[ 2015-12-29T15:51:31+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006528s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009388s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','34','1451375491') [ RunTime:0.0119s ]
+
+[ 2015-12-29T15:51:31+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000258s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006531s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009637s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0074s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0026s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0043s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0012s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:51:33+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009485s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','35','1451375493') [ RunTime:0.0140s ]
+
+[ 2015-12-29T15:51:34+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012235s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0028s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0088s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:51:35+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009714s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0078s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','36','1451375495') [ RunTime:0.0124s ]
+
+[ 2015-12-29T15:51:36+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009597s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0074s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0026s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0041s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0092s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0012s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:51:38+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012420s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','37','1451375497') [ RunTime:0.3071s ]
+
+[ 2015-12-29T15:51:38+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006579s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009665s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0044s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:51:40+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006530s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009518s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','38','1451375500') [ RunTime:0.1955s ]
+
+[ 2015-12-29T15:51:40+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009712s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0074s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0026s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0045s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0091s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:51:43+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009451s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','39','1451375503') [ RunTime:0.0120s ]
+
+[ 2015-12-29T15:51:43+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006550s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009625s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0074s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0026s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0044s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+
+[ 2015-12-29T15:51:46+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009575s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','40','1451375506') [ RunTime:0.0133s ]
+
+[ 2015-12-29T15:51:47+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009527s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0029s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0041s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0089s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:51:49+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006440s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010009s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0075s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','41','1451375509') [ RunTime:0.1949s ]
+
+[ 2015-12-29T15:51:50+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006566s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009556s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0044s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:51:52+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009571s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','42','1451375512') [ RunTime:0.0159s ]
+
+[ 2015-12-29T15:51:53+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000259s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008894s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009963s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0029s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0042s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0094s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:52:06+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006612s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009842s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0075s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 50,10   [ RunTime:0.0081s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0089s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika9'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:52:12+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010089s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0139s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0089s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:52:17+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009686s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0134s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 10,10   [ RunTime:0.0051s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+
+[ 2015-12-29T15:52:23+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006766s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011691s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0078s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0012s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0012s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0033s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T15:52:27+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006545s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009923s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0074s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 10,10   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0089s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+
+[ 2015-12-29T15:52:29+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009477s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0114s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0012s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T16:16:33+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000466s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006646s ]
+
+[ 2015-12-29T16:16:34+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009510s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0079s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T16:18:23+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000313s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009699s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000923s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002116s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.123840s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124983s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002269s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003266s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008759s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009818s ]
+
+[ 2015-12-29T16:18:24+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000258s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009720s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0090s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+
+[ 2015-12-29T16:18:26+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006490s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009599s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000761s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001907s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.118662s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.119796s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002175s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003218s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009733s ]
+
+[ 2015-12-29T16:18:27+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000242s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009527s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0075s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0088s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+
+[ 2015-12-29T16:22:34+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009780s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000920s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002320s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.130576s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.131709s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002414s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003417s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008912s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010038s ]
+
+[ 2015-12-29T16:22:35+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009577s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0078s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0033s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0041s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0088s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0011s ]
+
+[ 2015-12-29T16:25:49+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000242s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009257s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000885s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001967s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.116554s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.117597s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003266s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009447s ]
+
+[ 2015-12-29T16:25:50+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009152s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT * FROM `table2comment` ORDER BY commenttime desc LIMIT 0,10   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `table2user` [ RunTime:0.0089s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0010s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+SQL: SELECT `imgnum`,`webpage` FROM `table2user` WHERE `username` = 'mika'  [ RunTime:0.0009s ]
+

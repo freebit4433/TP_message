@@ -1,0 +1,972 @@
+[ 2015-12-12T08:52:09+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026931s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T08:52:10+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000261s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024971s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T08:52:10+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.024333s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T08:52:10+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006573s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T08:52:10+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006424s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T08:52:26+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026903s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T08:52:26+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000549s ]
+INFO: [ app_init ] --END-- [ RunTime:0.027357s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T08:52:26+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006623s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T08:52:26+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006495s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T08:52:29+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026530s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T08:52:29+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.020459s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026601s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T08:52:29+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026744s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T08:52:29+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006505s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T08:52:30+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006261s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:02:12+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026431s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:02:12+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026346s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:02:12+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006310s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:02:12+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007538s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:02:12+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006910s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:03:27+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026424s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:03:27+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006307s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:03:27+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016961s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:03:28+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006731s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:03:28+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006546s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:04:22+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005918s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:04:22+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006307s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:04:22+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006302s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:04:22+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006269s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:04:23+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006025s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:06:59+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026278s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:06:59+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006314s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:06:59+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006158s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:06:59+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000242s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005862s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:07:00+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006264s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:07:05+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026239s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:07:05+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000259s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006406s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:07:05+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006333s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:07:05+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006095s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:08:29+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026279s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:08:29+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026207s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:08:29+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005933s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:08:29+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005963s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:08:30+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006038s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:40:52+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036346s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:40:52+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000261s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026525s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:40:52+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006295s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:40:53+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006267s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:42:39+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.035990s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:42:39+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026467s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:42:39+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006473s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:42:39+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006245s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:42:39+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005998s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:45:19+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026527s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:45:19+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006305s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:45:19+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006822s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:45:19+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006072s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:45:19+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000439s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006511s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:58:12+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026319s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:58:12+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000263s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026872s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:58:12+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.020646s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026741s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:58:12+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006301s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:58:12+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007253s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:59:07+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026400s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:59:07+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000275s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026648s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T09:59:07+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006577s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:00:02+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026445s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:00:02+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.020536s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026330s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:00:02+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006273s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:00:03+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006146s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:00:03+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000258s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008777s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:02:01+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000242s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006105s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:02:01+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000362s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006060s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:02:01+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016486s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:02:01+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006396s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:02:01+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006134s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:05:59+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.029325s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:05:59+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016723s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:05:59+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006283s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:05:59+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006097s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:06:00+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006270s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:06:52+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006053s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:06:52+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036553s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:06:52+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006068s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:06:52+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006293s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:06:53+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006399s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:23:14+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026365s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:23:14+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005892s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:23:14+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000314s ]
+INFO: [ app_init ] --END-- [ RunTime:0.043295s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:23:14+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005931s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T10:23:14+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006247s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T11:15:53+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026615s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T11:15:53+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006083s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T11:15:53+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006047s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T11:15:53+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006316s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T11:15:53+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006194s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T11:16:08+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006080s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T11:16:08+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011946s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T11:16:08+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.031043s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T11:16:08+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006109s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T11:16:49+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000259s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026261s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T11:16:49+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026446s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T11:16:49+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006890s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T11:16:49+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005998s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T11:26:25+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026305s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T11:26:25+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006024s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T11:26:25+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026413s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T11:26:25+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006134s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T11:26:26+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006335s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T14:19:15+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026380s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T14:19:15+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016654s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T14:19:15+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036370s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T14:19:15+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000369s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006012s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T14:19:15+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006396s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T21:20:00+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016526s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T21:20:00+08:00 ] 192.168.1.2 /thinkphp/1/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.020460s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026401s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T21:20:00+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000319s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006983s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T21:20:00+08:00 ] 192.168.1.2 /thinkphp/1/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006352s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T21:20:00+08:00 ] 192.168.1.2 /thinkphp/1/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006279s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T22:47:53+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016513s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T22:47:53+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.035503s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T22:47:53+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.028883s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T22:47:54+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005889s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T22:47:54+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006296s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:27:40+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020566s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:27:40+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036374s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:27:40+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000267s ]
+INFO: [ app_init ] --END-- [ RunTime:0.030981s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:27:41+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000262s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006384s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:27:41+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006063s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:34:20+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016621s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:34:20+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.042134s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:34:20+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016338s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:34:20+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005974s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:34:20+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000298s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006098s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:35:33+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006117s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:35:33+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.028274s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:35:33+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020251s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:35:33+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006559s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:35:33+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006405s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:35:54+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006135s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:35:54+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006035s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:35:54+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026363s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:35:54+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000371s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006447s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:35:55+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000484s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006288s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:36:49+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.030944s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:36:49+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005960s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:36:49+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.022207s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:36:49+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006417s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:36:49+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005964s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:44:09+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005965s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:44:09+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026517s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:44:09+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026459s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:44:10+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000259s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006503s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:44:10+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007200s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:51:22+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006401s ]
+ERR: 无法加载模块:Login
+
+[ 2015-12-12T23:51:49+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006352s ]
+ERR: 无法加载模块:Login
+
+[ 2015-12-12T23:51:55+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005920s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:51:55+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026435s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:51:55+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000361s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006076s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:51:55+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006317s ]
+ERR: 无法加载模块:Js
+
+[ 2015-12-12T23:53:37+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006293s ]
+ERR: 无法加载模块:Login
+
+[ 2015-12-12T23:55:55+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006076s ]
+ERR: 无法加载模块:Login
+
+[ 2015-12-12T23:56:37+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home@Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006504s ]
+ERR: 无法加载模块:Home@Login
+

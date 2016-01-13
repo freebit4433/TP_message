@@ -1,0 +1,457 @@
+[ 2016-01-06T10:58:05+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007513s ]
+
+[ 2016-01-06T10:58:05+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000242s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005859s ]
+
+[ 2016-01-06T10:58:07+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006497s ]
+
+[ 2016-01-06T10:58:15+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006153s ]
+
+[ 2016-01-06T10:58:16+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006142s ]
+
+[ 2016-01-06T10:58:17+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009618s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT c.id,c.username,c.commenttime,c.comment,table2user.imgnum,table2user.webpage FROM table2comment c INNER JOIN table2user ON c.username = table2user.username  ORDER BY c.commenttime desc LIMIT 0,10   [ RunTime:0.0054s ]
+
+[ 2016-01-06T10:59:10+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009447s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','测试自动删除','1452049150') [ RunTime:0.0124s ]
+
+[ 2016-01-06T10:59:11+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009624s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0074s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0024s ]
+SQL: SELECT c.id,c.username,c.commenttime,c.comment,table2user.imgnum,table2user.webpage FROM table2comment c INNER JOIN table2user ON c.username = table2user.username  ORDER BY c.commenttime desc LIMIT 0,10   [ RunTime:0.0052s ]
+
+[ 2016-01-06T11:01:17+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009523s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT c.id,c.username,c.commenttime,c.comment,table2user.imgnum,table2user.webpage FROM table2comment c INNER JOIN table2user ON c.username = table2user.username  ORDER BY c.commenttime desc LIMIT 10,10   [ RunTime:0.0065s ]
+
+[ 2016-01-06T11:03:56+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009627s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0078s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT c.id,c.username,c.commenttime,c.comment,table2user.imgnum,table2user.webpage FROM table2comment c INNER JOIN table2user ON c.username = table2user.username  ORDER BY c.commenttime desc LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2016-01-06T11:04:07+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009233s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0078s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','测试自动删除2','1452049447') [ RunTime:0.0133s ]
+
+[ 2016-01-06T11:04:07+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009173s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0075s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT c.id,c.username,c.commenttime,c.comment,table2user.imgnum,table2user.webpage FROM table2comment c INNER JOIN table2user ON c.username = table2user.username  ORDER BY c.commenttime desc LIMIT 0,10   [ RunTime:0.0048s ]
+
+[ 2016-01-06T11:08:42+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009562s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0078s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','测试自动删除3','1452049722') [ RunTime:0.0127s ]
+
+[ 2016-01-06T11:08:43+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009520s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0074s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT c.id,c.username,c.commenttime,c.comment,table2user.imgnum,table2user.webpage FROM table2comment c INNER JOIN table2user ON c.username = table2user.username  ORDER BY c.commenttime desc LIMIT 0,10   [ RunTime:0.0051s ]
+
+[ 2016-01-06T11:09:29+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009620s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0075s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','测试自动删除4','1452049769') [ RunTime:0.0119s ]
+
+[ 2016-01-06T11:09:30+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011284s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT c.id,c.username,c.commenttime,c.comment,table2user.imgnum,table2user.webpage FROM table2comment c INNER JOIN table2user ON c.username = table2user.username  ORDER BY c.commenttime desc LIMIT 0,10   [ RunTime:0.0052s ]
+
+[ 2016-01-06T11:10:42+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006656s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010248s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','测试自动删除5','1452049841') [ RunTime:0.1956s ]
+
+[ 2016-01-06T11:10:42+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000364s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009231s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT c.id,c.username,c.commenttime,c.comment,table2user.imgnum,table2user.webpage FROM table2comment c INNER JOIN table2user ON c.username = table2user.username  ORDER BY c.commenttime desc LIMIT 0,10   [ RunTime:0.0050s ]
+
+[ 2016-01-06T11:33:18+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/delete.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009609s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: DELETE FROM `table2comment` WHERE `id` = 90 [ RunTime:0.3371s ]
+
+[ 2016-01-06T11:33:20+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009835s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0032s ]
+SQL: SELECT c.id,c.username,c.commenttime,c.comment,table2user.imgnum,table2user.webpage FROM table2comment c INNER JOIN table2user ON c.username = table2user.username  ORDER BY c.commenttime desc LIMIT 0,10   [ RunTime:0.0051s ]
+
+[ 2016-01-06T11:57:17+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005956s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009467s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0079s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','测试自动删除6','1452052636') [ RunTime:0.1963s ]
+
+[ 2016-01-06T11:57:17+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006169s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012015s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0082s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0026s ]
+SQL: SELECT c.id,c.username,c.commenttime,c.comment,table2user.imgnum,table2user.webpage FROM table2comment c INNER JOIN table2user ON c.username = table2user.username  ORDER BY c.commenttime desc LIMIT 0,10   [ RunTime:0.0049s ]
+
+[ 2016-01-06T15:00:54+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000487s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006072s ]
+
+[ 2016-01-06T15:00:55+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006221s ]
+
+[ 2016-01-06T15:00:56+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000242s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006355s ]
+
+[ 2016-01-06T15:01:04+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006128s ]
+
+[ 2016-01-06T15:01:04+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005848s ]
+
+[ 2016-01-06T15:01:07+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009624s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0073s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT c.id,c.username,c.commenttime,c.comment,table2user.imgnum,table2user.webpage FROM table2comment c INNER JOIN table2user ON c.username = table2user.username  ORDER BY c.commenttime desc LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2016-01-06T15:01:13+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009159s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','7','1452063673') [ RunTime:0.0122s ]
+
+[ 2016-01-06T15:01:13+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005887s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009166s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0026s ]
+SQL: SELECT c.id,c.username,c.commenttime,c.comment,table2user.imgnum,table2user.webpage FROM table2comment c INNER JOIN table2user ON c.username = table2user.username  ORDER BY c.commenttime desc LIMIT 0,10   [ RunTime:0.0052s ]
+
+[ 2016-01-06T15:02:30+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006097s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009305s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0075s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','8','1452063750') [ RunTime:0.0115s ]
+SQL: SHOW COLUMNS FROM `log` [ RunTime:0.0066s ]
+SQL: SHOW COLUMNS FROM `log` [ RunTime:0.0064s ]
+SQL: INSERT INTO `log` (`content`) VALUES ('test') [ RunTime:0.0117s ]
+
+[ 2016-01-06T15:02:31+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009381s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0078s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0026s ]
+SQL: SELECT c.id,c.username,c.commenttime,c.comment,table2user.imgnum,table2user.webpage FROM table2comment c INNER JOIN table2user ON c.username = table2user.username  ORDER BY c.commenttime desc LIMIT 0,10   [ RunTime:0.0050s ]
+
+[ 2016-01-06T15:03:22+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006106s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009397s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika','9','1452063802') [ RunTime:0.0125s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT `id` FROM `table2comment` LIMIT 40   [ RunTime:0.0027s ]
+SQL: DELETE FROM `table2comment` WHERE `id` < '64' [ RunTime:0.0139s ]
+
+[ 2016-01-06T15:03:23+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009682s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0075s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0025s ]
+SQL: SELECT c.id,c.username,c.commenttime,c.comment,table2user.imgnum,table2user.webpage FROM table2comment c INNER JOIN table2user ON c.username = table2user.username  ORDER BY c.commenttime desc LIMIT 0,10   [ RunTime:0.0051s ]
+
+[ 2016-01-06T15:03:38+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009585s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0077s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT c.id,c.username,c.commenttime,c.comment,table2user.imgnum,table2user.webpage FROM table2comment c INNER JOIN table2user ON c.username = table2user.username  ORDER BY c.commenttime desc LIMIT 30,10   [ RunTime:0.0068s ]
+
+[ 2016-01-06T15:03:42+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009530s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0074s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT c.id,c.username,c.commenttime,c.comment,table2user.imgnum,table2user.webpage FROM table2comment c INNER JOIN table2user ON c.username = table2user.username  ORDER BY c.commenttime desc LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2016-01-06T15:23:00+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000242s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005679s ]
+
+[ 2016-01-06T15:23:00+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006019s ]
+
+[ 2016-01-06T15:23:02+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000242s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006180s ]
+
+[ 2016-01-06T15:23:03+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/registerClick.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006203s ]
+
+[ 2016-01-06T15:23:04+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Register/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000243s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006159s ]
+
+[ 2016-01-06T15:23:23+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Register/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000242s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005965s ]
+
+[ 2016-01-06T15:23:25+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006129s ]
+
+[ 2016-01-06T15:23:26+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006025s ]
+
+[ 2016-01-06T15:27:26+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/registerClick.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006254s ]
+
+[ 2016-01-06T15:27:26+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Register/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006327s ]
+
+[ 2016-01-06T15:27:43+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Register/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005920s ]
+
+[ 2016-01-06T15:27:44+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005881s ]
+
+[ 2016-01-06T15:27:46+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005995s ]
+
+[ 2016-01-06T15:28:44+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/registerClick.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006163s ]
+
+[ 2016-01-06T15:28:44+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Register/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006321s ]
+
+[ 2016-01-06T15:29:00+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Register/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006386s ]
+
+[ 2016-01-06T15:29:02+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005942s ]
+
+[ 2016-01-06T15:29:03+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006065s ]
+
+[ 2016-01-06T15:29:25+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/registerClick.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006115s ]
+
+[ 2016-01-06T15:29:26+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Register/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006303s ]
+
+[ 2016-01-06T15:29:37+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Register/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008822s ]
+
+[ 2016-01-06T15:29:39+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006234s ]
+
+[ 2016-01-06T15:29:40+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005968s ]
+
+[ 2016-01-06T23:05:07+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006308s ]
+
+[ 2016-01-06T23:05:09+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000239s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006146s ]
+

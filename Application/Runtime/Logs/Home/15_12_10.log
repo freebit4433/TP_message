@@ -1,0 +1,1285 @@
+[ 2015-12-10T09:46:39+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007665s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011333s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012391s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013482s ]
+
+[ 2015-12-10T09:48:22+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011150s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012240s ]
+
+[ 2015-12-10T09:51:04+08:00 ] 192.168.1.2 /thinkphp/1/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006923s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010058s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011126s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012239s ]
+
+[ 2015-12-10T09:51:18+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006660s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010408s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011226s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012319s ]
+
+[ 2015-12-10T09:54:12+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006773s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010227s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011236s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012332s ]
+
+[ 2015-12-10T10:12:38+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010158s ]
+
+[ 2015-12-10T10:14:03+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006551s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010100s ]
+
+[ 2015-12-10T10:14:18+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006008s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010174s ]
+
+[ 2015-12-10T10:14:20+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009873s ]
+
+[ 2015-12-10T10:14:31+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010041s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008789s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009919s ]
+
+[ 2015-12-10T10:14:53+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008970s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008867s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010008s ]
+
+[ 2015-12-10T10:15:10+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006472s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009904s ]
+
+[ 2015-12-10T10:18:29+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006609s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009823s ]
+
+[ 2015-12-10T10:20:02+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009984s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009224s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010340s ]
+
+[ 2015-12-10T10:37:24+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010002s ]
+SQL: SHOW COLUMNS FROM `table1` [ RunTime:0.0089s ]
+SQL: SELECT * FROM `table1` WHERE `id` = 9 LIMIT 1   [ RunTime:0.0029s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000653s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001881s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.120369s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.121467s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.128681s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.129871s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008799s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009823s ]
+
+[ 2015-12-10T10:37:40+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006005s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009961s ]
+SQL: SHOW COLUMNS FROM `table1` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `table1` WHERE `id` = 9 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000890s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002026s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.110870s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.112179s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002502s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003480s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008761s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009777s ]
+
+[ 2015-12-10T21:04:58+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006228s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009948s ]
+ERR: 非法操作:index.shtml
+
+[ 2015-12-10T21:05:32+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010200s ]
+SQL: SHOW COLUMNS FROM `table1` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `table1` WHERE `id` = 9 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000650s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001711s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.110181s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.111301s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002220s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003191s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008913s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010085s ]
+
+[ 2015-12-10T21:25:30+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010170s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002201s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.117289s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.118613s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002477s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008804s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009908s ]
+
+[ 2015-12-10T21:25:31+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/css/comment.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026638s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.028887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.030032s ]
+ERR: 非法操作:css
+
+[ 2015-12-10T21:25:31+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.037358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.038487s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:25:31+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000242s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.043348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.044521s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:25:32+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016715s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017092s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:25:32+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.038820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.039960s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:25:33+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/img/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012628s ]
+
+[ 2015-12-10T21:25:33+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/img/2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036211s ]
+
+[ 2015-12-10T21:25:33+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/img/3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.030545s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036612s ]
+
+[ 2015-12-10T21:25:33+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/img/4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.029709s ]
+
+[ 2015-12-10T21:25:33+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/img/5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006083s ]
+
+[ 2015-12-10T21:25:33+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005745s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.018566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019608s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:25:35+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/img/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.037817s ]
+
+[ 2015-12-10T21:25:35+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/img/2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.046654s ]
+
+[ 2015-12-10T21:25:35+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/img/5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.046336s ]
+
+[ 2015-12-10T21:25:35+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/img/4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006077s ]
+
+[ 2015-12-10T21:25:35+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/img/3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.046456s ]
+
+[ 2015-12-10T21:28:54+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005913s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009547s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000752s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001805s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.109480s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.110812s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002202s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003214s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008223s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009527s ]
+
+[ 2015-12-10T21:28:55+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.027878s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.029059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.030110s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:28:55+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.028815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029980s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:28:55+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010194s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:28:57+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/img/3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.056107s ]
+
+[ 2015-12-10T21:28:57+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/img/4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000243s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005891s ]
+
+[ 2015-12-10T21:28:57+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/img/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000360s ]
+INFO: [ app_init ] --END-- [ RunTime:0.056287s ]
+
+[ 2015-12-10T21:28:57+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/img/2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.056204s ]
+
+[ 2015-12-10T21:28:57+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/img/5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006097s ]
+
+[ 2015-12-10T21:28:57+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.056216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.028600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029671s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:28:57+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005903s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009607s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:28:58+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/img/5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005880s ]
+
+[ 2015-12-10T21:28:58+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/img/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.046361s ]
+
+[ 2015-12-10T21:28:58+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/img/3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005942s ]
+
+[ 2015-12-10T21:28:58+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/img/2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.046405s ]
+
+[ 2015-12-10T21:28:58+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/img/4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005737s ]
+
+[ 2015-12-10T21:29:38+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005992s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009424s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001257s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002451s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.116782s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.118113s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002602s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003633s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008974s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010035s ]
+
+[ 2015-12-10T21:29:39+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.028938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.030097s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:29:39+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.045704s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.029157s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.030251s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:29:39+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000243s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.019016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020399s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:29:40+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014229s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:29:40+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/img/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005756s ]
+
+[ 2015-12-10T21:29:40+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022086s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:29:40+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/img/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000295s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005854s ]
+
+[ 2015-12-10T21:30:04+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006024s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009664s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000764s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001842s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.112878s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.114083s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002218s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003243s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008586s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009760s ]
+
+[ 2015-12-10T21:30:05+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.028659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029713s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:30:05+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000319s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.029151s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.030293s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:30:05+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000364s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.033144s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.034316s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:30:05+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009737s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:30:06+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006137s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010023s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:31:48+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011118s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012211s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000878s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002013s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.119365s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.121304s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002296s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003308s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009062s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010215s ]
+
+[ 2015-12-10T21:31:49+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005932s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.028664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029725s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:31:49+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006173s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.028869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.030133s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:31:49+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.020545s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.019156s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020324s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:31:50+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005717s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009660s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:31:50+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006396s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009984s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:32:30+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009592s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000755s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001813s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.110222s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.111744s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003586s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004734s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009798s ]
+
+[ 2015-12-10T21:32:31+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.028680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029725s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:32:31+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005932s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.028620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029795s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:32:31+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.026881s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.028159s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:32:31+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009601s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:32:31+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005741s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009576s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:39:50+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009660s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000871s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001944s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.111928s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.112997s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002314s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003339s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008593s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009634s ]
+
+[ 2015-12-10T21:39:51+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.025992s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.028572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029626s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:39:51+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.028924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029980s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:39:51+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.029010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.030157s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:39:51+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005867s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009373s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:39:51+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005834s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009566s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:44:30+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.shtml
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006379s ]
+
+[ 2015-12-10T21:44:31+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006186s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:44:31+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026220s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:44:31+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026184s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:44:32+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006293s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:44:32+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006383s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:52:16+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006108s ]
+
+[ 2015-12-10T21:52:17+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026070s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:52:17+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026596s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:52:17+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016446s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T21:52:17+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006079s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:17:01+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000265s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006160s ]
+
+[ 2015-12-10T22:17:01+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005942s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:17:02+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005933s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:17:02+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026450s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:17:02+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005873s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:23:19+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006166s ]
+
+[ 2015-12-10T22:23:20+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026083s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:23:20+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006211s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:23:20+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015553s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:23:20+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006420s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:23:20+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006392s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:49:03+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005932s ]
+
+[ 2015-12-10T22:49:04+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006132s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:49:04+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026110s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:49:04+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026242s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:49:04+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006138s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:49:04+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000363s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006152s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:49:50+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+ERR: 非法操作:js
+
+[ 2015-12-10T22:49:50+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+ERR: 非法操作:js
+
+[ 2015-12-10T22:49:50+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+ERR: 非法操作:js
+
+[ 2015-12-10T22:49:50+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+ERR: 非法操作:js
+
+[ 2015-12-10T22:49:51+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+ERR: 非法操作:js
+
+[ 2015-12-10T22:49:55+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+ERR: 非法操作:js
+
+[ 2015-12-10T22:49:55+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+ERR: 非法操作:js
+
+[ 2015-12-10T22:49:55+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+ERR: 非法操作:js
+
+[ 2015-12-10T22:49:55+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+ERR: 非法操作:js
+
+[ 2015-12-10T22:49:55+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+ERR: 非法操作:js
+
+[ 2015-12-10T22:49:59+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+ERR: 非法操作:js
+
+[ 2015-12-10T22:49:59+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+ERR: 非法操作:js
+
+[ 2015-12-10T22:49:59+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+ERR: 非法操作:js
+
+[ 2015-12-10T22:49:59+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+ERR: 非法操作:js
+
+[ 2015-12-10T22:49:59+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+ERR: 非法操作:js
+
+[ 2015-12-10T22:50:13+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006543s ]
+
+[ 2015-12-10T22:50:14+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.021633s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:50:14+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.041207s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:50:14+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026538s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:50:14+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006327s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:50:15+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006317s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:50:16+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005980s ]
+
+[ 2015-12-10T22:50:17+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005882s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:50:17+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005845s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:50:17+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.020543s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026226s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:50:18+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006355s ]
+
+[ 2015-12-10T22:50:19+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000304s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005856s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:50:19+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026065s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:50:19+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000364s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026203s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:50:20+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006238s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:53:42+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006036s ]
+
+[ 2015-12-10T22:53:43+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016710s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:53:43+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000260s ]
+INFO: [ app_init ] --END-- [ RunTime:0.035866s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:53:43+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026398s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:53:43+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006116s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:53:44+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006094s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:55:12+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005921s ]
+
+[ 2015-12-10T22:55:13+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026418s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:55:13+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016598s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:55:13+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006140s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:55:22+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006117s ]
+ERR: 模板不存在:./Application/Home/View/Index/test.html
+
+[ 2015-12-10T22:55:38+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005860s ]
+
+[ 2015-12-10T22:57:17+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006582s ]
+
+[ 2015-12-10T22:57:18+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005917s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:57:18+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006070s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:57:18+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005953s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:57:19+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006534s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:57:19+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006105s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:57:33+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000304s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006379s ]
+
+[ 2015-12-10T22:58:38+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006199s ]
+
+[ 2015-12-10T22:58:38+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026447s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:58:38+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026382s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:58:39+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006579s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:58:39+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006338s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:58:51+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006155s ]
+
+[ 2015-12-10T22:58:52+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016167s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:58:52+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005881s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:58:52+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026520s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:59:15+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006176s ]
+
+[ 2015-12-10T22:59:42+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006214s ]
+
+[ 2015-12-10T22:59:43+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006149s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:59:43+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.028757s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:59:43+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000361s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026363s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:59:44+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006417s ]
+ERR: 非法操作:js
+
+[ 2015-12-10T22:59:49+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006084s ]
+
+[ 2015-12-10T22:59:55+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000312s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006137s ]
+

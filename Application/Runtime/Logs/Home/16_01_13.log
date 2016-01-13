@@ -1,0 +1,93 @@
+[ 2016-01-13T08:21:49+08:00 ] 192.168.1.5 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006197s ]
+
+[ 2016-01-13T08:21:50+08:00 ] 192.168.1.5 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005939s ]
+
+[ 2016-01-13T08:21:51+08:00 ] 192.168.1.5 /Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005993s ]
+
+[ 2016-01-13T08:21:59+08:00 ] 192.168.1.5 /Login/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006584s ]
+
+[ 2016-01-13T08:21:59+08:00 ] 192.168.1.5 /Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006312s ]
+
+[ 2016-01-13T08:22:00+08:00 ] 192.168.1.5 /Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009318s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0075s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT c.id,c.username,c.commenttime,c.comment,table2user.imgnum,table2user.webpage FROM table2comment c LEFT JOIN table2user ON c.username = table2user.username  ORDER BY c.commenttime desc LIMIT 0,10   [ RunTime:0.0012s ]
+
+[ 2016-01-13T08:22:01+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Public/Home/img/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005879s ]
+
+[ 2016-01-13T08:22:01+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Public/Home/img/null.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016186s ]
+
+[ 2016-01-13T08:22:16+08:00 ] 192.168.1.5 /Index/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009773s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0078s ]
+SQL: INSERT INTO `table2comment` (`username`,`comment`,`commenttime`) VALUES ('mika8','test','1452644536') [ RunTime:0.0135s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0024s ]
+
+[ 2016-01-13T08:22:17+08:00 ] 192.168.1.5 /Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000367s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005998s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009284s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT c.id,c.username,c.commenttime,c.comment,table2user.imgnum,table2user.webpage FROM table2comment c LEFT JOIN table2user ON c.username = table2user.username  ORDER BY c.commenttime desc LIMIT 0,10   [ RunTime:0.0049s ]
+
+[ 2016-01-13T08:22:18+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Public/Home/img/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009614s ]
+
+[ 2016-01-13T08:22:18+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Public/Home/img/null.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006666s ]
+
+[ 2016-01-13T08:22:20+08:00 ] 192.168.1.5 /Index/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006336s ]
+
+[ 2016-01-13T08:22:20+08:00 ] 192.168.1.5 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000308s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006326s ]
+
+[ 2016-01-13T08:22:22+08:00 ] 192.168.1.5 /Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006335s ]
+
