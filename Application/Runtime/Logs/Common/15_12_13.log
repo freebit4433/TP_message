@@ -1,0 +1,12 @@
+[ 2015-12-13T09:52:12+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007141s ]
+ERR: 无法加载模块:Login
+
+[ 2015-12-13T11:08:35+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000311s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017715s ]
+ERR: 无法加载模块:Login
+

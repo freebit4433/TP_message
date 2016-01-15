@@ -1,0 +1,111 @@
+[ 2015-12-09T20:33:54+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009844s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010996s ]
+SQL: SHOW COLUMNS FROM `table1` [ RunTime:0.0092s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009752s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010907s ]
+
+[ 2015-12-09T20:34:19+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011611s ]
+
+[ 2015-12-09T20:34:35+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009784s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010647s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011776s ]
+
+[ 2015-12-09T20:37:21+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010571s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011178s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012315s ]
+
+[ 2015-12-09T20:37:52+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010343s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012118s ]
+
+[ 2015-12-09T20:38:13+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008867s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010256s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011075s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012151s ]
+
+[ 2015-12-09T20:38:52+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006872s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010241s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011193s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012256s ]
+
+[ 2015-12-09T20:39:04+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000362s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006674s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010305s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012320s ]
+
+[ 2015-12-09T20:39:09+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009855s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008792s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009891s ]
+
+[ 2015-12-09T20:39:47+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009902s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008868s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009917s ]
+

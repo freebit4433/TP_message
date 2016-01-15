@@ -1,0 +1,519 @@
+[ 2016-01-10T09:54:35+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000240s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006280s ]
+
+[ 2016-01-10T09:54:35+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005988s ]
+
+[ 2016-01-10T09:54:37+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005759s ]
+
+[ 2016-01-10T10:05:46+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006142s ]
+
+[ 2016-01-10T10:06:41+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006202s ]
+
+[ 2016-01-10T10:06:43+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000242s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005783s ]
+
+[ 2016-01-10T10:06:43+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000298s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005911s ]
+
+[ 2016-01-10T10:07:00+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000243s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006172s ]
+
+[ 2016-01-10T10:07:01+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000466s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006174s ]
+
+[ 2016-01-10T10:07:02+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009178s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0074s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT c.id,c.username,c.commenttime,c.comment,table2user.imgnum,table2user.webpage FROM table2comment c LEFT JOIN table2user ON c.username = table2user.username  ORDER BY c.commenttime desc LIMIT 0,10   [ RunTime:0.0012s ]
+
+[ 2016-01-10T10:07:02+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Public/Home/img/null.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005988s ]
+
+[ 2016-01-10T14:15:42+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006280s ]
+
+[ 2016-01-10T14:15:42+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006836s ]
+
+[ 2016-01-10T14:15:43+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006346s ]
+
+[ 2016-01-10T14:31:36+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006510s ]
+
+[ 2016-01-10T14:31:37+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000258s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009280s ]
+
+[ 2016-01-10T14:31:42+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000364s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006197s ]
+
+[ 2016-01-10T14:31:42+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006201s ]
+
+[ 2016-01-10T15:22:17+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006519s ]
+
+[ 2016-01-10T15:22:18+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006221s ]
+
+[ 2016-01-10T15:22:18+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000258s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006113s ]
+
+[ 2016-01-10T15:38:06+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006175s ]
+
+[ 2016-01-10T15:38:07+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000243s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006386s ]
+
+[ 2016-01-10T17:18:37+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000259s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006763s ]
+
+[ 2016-01-10T17:18:37+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006705s ]
+
+[ 2016-01-10T17:18:38+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006469s ]
+
+[ 2016-01-10T17:18:49+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006623s ]
+
+[ 2016-01-10T17:18:49+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000260s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006395s ]
+
+[ 2016-01-10T17:18:50+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000263s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006662s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010065s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT c.id,c.username,c.commenttime,c.comment,table2user.imgnum,table2user.webpage FROM table2comment c LEFT JOIN table2user ON c.username = table2user.username  ORDER BY c.commenttime desc LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2016-01-10T17:18:51+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Public/Home/img/null.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000266s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006466s ]
+
+[ 2016-01-10T17:18:54+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Index/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000488s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008196s ]
+
+[ 2016-01-10T17:18:55+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000259s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006099s ]
+
+[ 2016-01-10T17:18:56+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000260s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006347s ]
+
+[ 2016-01-10T17:24:22+08:00 ] 192.168.1.5 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006487s ]
+
+[ 2016-01-10T17:24:23+08:00 ] 192.168.1.5 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006225s ]
+
+[ 2016-01-10T17:24:24+08:00 ] 192.168.1.5 /Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006187s ]
+
+[ 2016-01-10T17:24:39+08:00 ] 192.168.1.5 /Login/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006638s ]
+
+[ 2016-01-10T17:24:41+08:00 ] 192.168.1.5 /Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006386s ]
+
+[ 2016-01-10T17:24:42+08:00 ] 192.168.1.5 /Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006068s ]
+
+[ 2016-01-10T17:24:46+08:00 ] 192.168.1.5 /Login/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006181s ]
+
+[ 2016-01-10T17:24:47+08:00 ] 192.168.1.5 /Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000259s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006039s ]
+
+[ 2016-01-10T17:24:48+08:00 ] 192.168.1.5 /Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009726s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.1975s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT c.id,c.username,c.commenttime,c.comment,table2user.imgnum,table2user.webpage FROM table2comment c LEFT JOIN table2user ON c.username = table2user.username  ORDER BY c.commenttime desc LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2016-01-10T17:24:48+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Public/Home/img/null.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006036s ]
+
+[ 2016-01-10T17:24:48+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Public/Home/img/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006279s ]
+
+[ 2016-01-10T17:25:00+08:00 ] 192.168.1.5 /Index/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006779s ]
+
+[ 2016-01-10T17:25:01+08:00 ] 192.168.1.5 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006130s ]
+
+[ 2016-01-10T17:25:02+08:00 ] 192.168.1.5 /Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006448s ]
+
+[ 2016-01-10T17:25:49+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000503s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006706s ]
+
+[ 2016-01-10T17:25:49+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006523s ]
+
+[ 2016-01-10T17:25:50+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006273s ]
+
+[ 2016-01-10T17:26:00+08:00 ] 192.168.1.5 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006641s ]
+
+[ 2016-01-10T17:26:01+08:00 ] 192.168.1.5 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006544s ]
+
+[ 2016-01-10T17:26:02+08:00 ] 192.168.1.5 /Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006272s ]
+
+[ 2016-01-10T17:30:35+08:00 ] 192.168.1.5 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006498s ]
+
+[ 2016-01-10T17:30:35+08:00 ] 192.168.1.5 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006769s ]
+
+[ 2016-01-10T17:30:37+08:00 ] 192.168.1.5 /Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006749s ]
+
+[ 2016-01-10T17:33:11+08:00 ] 192.168.1.5 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000370s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006656s ]
+
+[ 2016-01-10T17:33:11+08:00 ] 192.168.1.5 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006333s ]
+
+[ 2016-01-10T17:33:12+08:00 ] 192.168.1.5 /Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005894s ]
+
+[ 2016-01-10T17:33:14+08:00 ] 192.168.1.5 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000296s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006513s ]
+
+[ 2016-01-10T17:33:16+08:00 ] 192.168.1.5 /Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006079s ]
+
+[ 2016-01-10T17:34:35+08:00 ] 192.168.1.5 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006868s ]
+
+[ 2016-01-10T17:34:37+08:00 ] 192.168.1.5 /Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006692s ]
+
+[ 2016-01-10T17:34:37+08:00 ] 192.168.1.5 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000262s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006379s ]
+
+[ 2016-01-10T17:34:37+08:00 ] 192.168.1.5 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006517s ]
+
+[ 2016-01-10T17:34:54+08:00 ] 192.168.1.5 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006599s ]
+
+[ 2016-01-10T17:34:54+08:00 ] 192.168.1.5 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000322s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006337s ]
+
+[ 2016-01-10T17:34:55+08:00 ] 192.168.1.5 /Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006055s ]
+
+[ 2016-01-10T17:40:12+08:00 ] 192.168.1.5 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006669s ]
+
+[ 2016-01-10T17:40:12+08:00 ] 192.168.1.5 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000243s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006636s ]
+
+[ 2016-01-10T17:40:13+08:00 ] 192.168.1.5 /Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008577s ]
+
+[ 2016-01-10T17:41:23+08:00 ] 192.168.1.5 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006511s ]
+
+[ 2016-01-10T17:41:23+08:00 ] 192.168.1.5 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006331s ]
+
+[ 2016-01-10T17:41:24+08:00 ] 192.168.1.5 /Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006247s ]
+
+[ 2016-01-10T19:31:31+08:00 ] 192.168.1.5 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006334s ]
+
+[ 2016-01-10T19:31:32+08:00 ] 192.168.1.5 /Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006543s ]
+
+[ 2016-01-10T21:54:20+08:00 ] 192.168.1.5 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006292s ]
+
+[ 2016-01-10T21:54:21+08:00 ] 192.168.1.5 /Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006546s ]
+
+[ 2016-01-10T21:54:26+08:00 ] 192.168.1.5 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007060s ]
+
+[ 2016-01-10T21:54:27+08:00 ] 192.168.1.5 /Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006566s ]
+
+[ 2016-01-10T21:54:30+08:00 ] 192.168.1.5 /Login/index.html?action=1452434167541
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000317s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006467s ]
+
+[ 2016-01-10T21:54:56+08:00 ] 192.168.1.5 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006521s ]
+
+[ 2016-01-10T21:54:56+08:00 ] 192.168.1.5 /Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006619s ]
+
+[ 2016-01-10T21:59:37+08:00 ] 192.168.1.5 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006589s ]
+
+[ 2016-01-10T21:59:39+08:00 ] 192.168.1.5 /Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006372s ]
+
+[ 2016-01-10T21:59:40+08:00 ] 192.168.1.5 /Login/vcode.html?action=1452434477976
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006099s ]
+
+[ 2016-01-10T21:59:41+08:00 ] 192.168.1.5 /Login/vcode.html?action=1452434479024
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006517s ]
+
+[ 2016-01-10T21:59:43+08:00 ] 192.168.1.5 /Login/vcode.html?action=1452434480512
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006516s ]
+
+[ 2016-01-10T21:59:44+08:00 ] 192.168.1.5 /Login/vcode.html?action=1452434481632
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006177s ]
+
+[ 2016-01-10T21:59:45+08:00 ] 192.168.1.5 /Login/vcode.html?action=1452434482984
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006627s ]
+
+[ 2016-01-10T21:59:46+08:00 ] 192.168.1.5 /Login/vcode.html?action=1452434483944
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000242s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006239s ]
+
+[ 2016-01-10T22:14:56+08:00 ] 192.168.1.5 /Login/submit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006309s ]
+
+[ 2016-01-10T22:14:56+08:00 ] 192.168.1.5 /Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006246s ]
+
+[ 2016-01-10T22:14:57+08:00 ] 192.168.1.5 /Index/refresh.html?p=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006104s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009195s ]
+SQL: SHOW COLUMNS FROM `table2comment` [ RunTime:0.0075s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `table2comment` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT c.id,c.username,c.commenttime,c.comment,table2user.imgnum,table2user.webpage FROM table2comment c LEFT JOIN table2user ON c.username = table2user.username  ORDER BY c.commenttime desc LIMIT 0,10   [ RunTime:0.0011s ]
+
+[ 2016-01-10T22:14:58+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Public/Home/img/1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006155s ]
+
+[ 2016-01-10T22:14:58+08:00 ] 192.168.1.5 /ThinkPHP_APP/TP_Message/Public/Home/img/null.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016537s ]
+
+[ 2016-01-10T22:15:01+08:00 ] 192.168.1.5 /Index/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000495s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006186s ]
+
+[ 2016-01-10T22:15:01+08:00 ] 192.168.1.5 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000258s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005919s ]
+
+[ 2016-01-10T22:15:02+08:00 ] 192.168.1.5 /Login/vcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006041s ]
+

@@ -1,0 +1,53 @@
+[ 2015-12-06T11:24:39+08:00 ] 192.168.1.3 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000234s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012383s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000653s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001804s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.112856s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.114194s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002287s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009170s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010194s ]
+
+[ 2015-12-06T12:09:05+08:00 ] 192.168.1.3 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006777s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010142s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011221s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012316s ]
+
+[ 2015-12-06T12:12:17+08:00 ] 192.168.1.3 /thinkphp/1/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010358s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012359s ]
+
+[ 2015-12-06T16:07:37+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011126s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012265s ]
+

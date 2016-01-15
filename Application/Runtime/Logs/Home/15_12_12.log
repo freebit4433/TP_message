@@ -1,0 +1,869 @@
+[ 2015-12-12T08:52:08+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007636s ]
+
+[ 2015-12-12T08:52:25+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006489s ]
+
+[ 2015-12-12T08:52:28+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000476s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006552s ]
+
+[ 2015-12-12T08:57:33+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006536s ]
+
+[ 2015-12-12T09:02:11+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006029s ]
+
+[ 2015-12-12T09:03:26+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008627s ]
+
+[ 2015-12-12T09:03:30+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006416s ]
+
+[ 2015-12-12T09:04:21+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006384s ]
+
+[ 2015-12-12T09:06:58+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006196s ]
+
+[ 2015-12-12T09:07:04+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006241s ]
+
+[ 2015-12-12T09:07:08+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006077s ]
+
+[ 2015-12-12T09:08:28+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006287s ]
+
+[ 2015-12-12T09:08:43+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006319s ]
+
+[ 2015-12-12T09:40:52+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000364s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006694s ]
+
+[ 2015-12-12T09:40:54+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006528s ]
+
+[ 2015-12-12T09:41:18+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006742s ]
+
+[ 2015-12-12T09:42:38+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006148s ]
+
+[ 2015-12-12T09:42:41+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006352s ]
+
+[ 2015-12-12T09:45:18+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006347s ]
+
+[ 2015-12-12T09:45:22+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005876s ]
+
+[ 2015-12-12T09:58:11+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005927s ]
+
+[ 2015-12-12T09:58:17+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000363s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006087s ]
+
+[ 2015-12-12T09:59:06+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006383s ]
+
+[ 2015-12-12T09:59:09+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006054s ]
+
+[ 2015-12-12T10:00:01+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006329s ]
+
+[ 2015-12-12T10:00:05+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006574s ]
+
+[ 2015-12-12T10:02:00+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006038s ]
+
+[ 2015-12-12T10:02:03+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000305s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006687s ]
+
+[ 2015-12-12T10:02:20+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006085s ]
+
+[ 2015-12-12T10:02:24+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006260s ]
+
+[ 2015-12-12T10:04:55+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006262s ]
+
+[ 2015-12-12T10:05:04+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006083s ]
+
+[ 2015-12-12T10:05:15+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006722s ]
+
+[ 2015-12-12T10:05:58+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000261s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006078s ]
+
+[ 2015-12-12T10:06:01+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006570s ]
+
+[ 2015-12-12T10:06:51+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006149s ]
+
+[ 2015-12-12T10:06:54+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006394s ]
+
+[ 2015-12-12T10:06:58+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006219s ]
+
+[ 2015-12-12T10:07:25+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000243s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006094s ]
+
+[ 2015-12-12T10:07:49+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006317s ]
+
+[ 2015-12-12T10:08:44+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006193s ]
+
+[ 2015-12-12T10:10:21+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006134s ]
+
+[ 2015-12-12T10:23:13+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006061s ]
+
+[ 2015-12-12T10:23:21+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000317s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006122s ]
+
+[ 2015-12-12T10:26:06+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006213s ]
+
+[ 2015-12-12T10:26:27+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007673s ]
+
+[ 2015-12-12T10:26:43+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006439s ]
+
+[ 2015-12-12T10:27:03+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006437s ]
+
+[ 2015-12-12T11:15:52+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000435s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008114s ]
+
+[ 2015-12-12T11:16:07+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006420s ]
+
+[ 2015-12-12T11:16:17+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006229s ]
+
+[ 2015-12-12T11:16:48+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006404s ]
+
+[ 2015-12-12T11:26:24+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006348s ]
+
+[ 2015-12-12T11:26:27+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/test.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006151s ]
+
+[ 2015-12-12T14:18:50+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006271s ]
+
+[ 2015-12-12T14:19:07+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005988s ]
+
+[ 2015-12-12T14:19:14+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006521s ]
+
+[ 2015-12-12T19:42:03+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006046s ]
+
+[ 2015-12-12T19:42:04+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006165s ]
+ERR: 非法操作:js
+
+[ 2015-12-12T19:42:04+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005907s ]
+ERR: 非法操作:js
+
+[ 2015-12-12T19:42:04+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.029145s ]
+ERR: 非法操作:js
+
+[ 2015-12-12T19:42:04+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006031s ]
+ERR: 非法操作:js
+
+[ 2015-12-12T19:42:04+08:00 ] 192.168.1.2 /thinkphp/1/index.php/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006153s ]
+ERR: 非法操作:js
+
+[ 2015-12-12T19:42:14+08:00 ] 192.168.1.2 /thinkphp/1/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006376s ]
+
+[ 2015-12-12T19:42:15+08:00 ] 192.168.1.2 /thinkphp/1/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026468s ]
+ERR: 非法操作:js
+
+[ 2015-12-12T19:42:15+08:00 ] 192.168.1.2 /thinkphp/1/Home/Index/js/jQuery-v1.11.3.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026423s ]
+ERR: 非法操作:js
+
+[ 2015-12-12T19:42:15+08:00 ] 192.168.1.2 /thinkphp/1/Home/Index/js/json2.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005939s ]
+ERR: 非法操作:js
+
+[ 2015-12-12T19:42:15+08:00 ] 192.168.1.2 /thinkphp/1/Home/Index/js/comment.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000536s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006733s ]
+ERR: 非法操作:js
+
+[ 2015-12-12T21:19:59+08:00 ] 192.168.1.2 /thinkphp/1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006383s ]
+
+[ 2015-12-12T22:47:52+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006541s ]
+
+[ 2015-12-12T22:57:17+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000360s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006415s ]
+
+[ 2015-12-12T22:57:50+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000469s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006523s ]
+
+[ 2015-12-12T22:58:24+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026398s ]
+
+[ 2015-12-12T22:59:13+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007211s ]
+
+[ 2015-12-12T23:00:42+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006409s ]
+
+[ 2015-12-12T23:01:59+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006499s ]
+
+[ 2015-12-12T23:27:39+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006090s ]
+
+[ 2015-12-12T23:34:19+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006402s ]
+
+[ 2015-12-12T23:35:32+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006569s ]
+
+[ 2015-12-12T23:35:53+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006142s ]
+
+[ 2015-12-12T23:36:48+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006237s ]
+
+[ 2015-12-12T23:44:08+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006255s ]
+
+[ 2015-12-12T23:49:48+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000479s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006330s ]
+
+[ 2015-12-12T23:49:49+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006021s ]
+
+[ 2015-12-12T23:49:49+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006249s ]
+
+[ 2015-12-12T23:49:49+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006305s ]
+
+[ 2015-12-12T23:49:50+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006070s ]
+
+[ 2015-12-12T23:49:50+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006072s ]
+
+[ 2015-12-12T23:49:50+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006221s ]
+
+[ 2015-12-12T23:49:50+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006340s ]
+
+[ 2015-12-12T23:49:51+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006270s ]
+
+[ 2015-12-12T23:49:51+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006260s ]
+
+[ 2015-12-12T23:49:51+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006064s ]
+
+[ 2015-12-12T23:49:52+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008320s ]
+
+[ 2015-12-12T23:49:52+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006362s ]
+
+[ 2015-12-12T23:49:52+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006283s ]
+
+[ 2015-12-12T23:49:52+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006374s ]
+
+[ 2015-12-12T23:49:53+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005915s ]
+
+[ 2015-12-12T23:49:53+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006365s ]
+
+[ 2015-12-12T23:49:53+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006273s ]
+
+[ 2015-12-12T23:49:53+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+
+[ 2015-12-12T23:49:54+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006312s ]
+
+[ 2015-12-12T23:49:54+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006219s ]
+
+[ 2015-12-12T23:50:57+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006372s ]
+
+[ 2015-12-12T23:50:57+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006106s ]
+
+[ 2015-12-12T23:50:58+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/Login/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006103s ]
+
+[ 2015-12-12T23:50:58+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/Login/Login/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000258s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006443s ]
+
+[ 2015-12-12T23:50:58+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/Login/Login/Login/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006242s ]
+
+[ 2015-12-12T23:50:58+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/Login/Login/Login/Login/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006243s ]
+
+[ 2015-12-12T23:50:59+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/Login/Login/Login/Login/Login/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006341s ]
+
+[ 2015-12-12T23:50:59+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/Login/Login/Login/Login/Login/Login/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006105s ]
+
+[ 2015-12-12T23:50:59+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/Login/Login/Login/Login/Login/Login/Login/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000586s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006228s ]
+
+[ 2015-12-12T23:50:59+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005999s ]
+
+[ 2015-12-12T23:51:00+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006291s ]
+
+[ 2015-12-12T23:51:00+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005981s ]
+
+[ 2015-12-12T23:51:00+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000365s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006421s ]
+
+[ 2015-12-12T23:51:01+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006379s ]
+
+[ 2015-12-12T23:51:01+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000243s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006428s ]
+
+[ 2015-12-12T23:51:01+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006340s ]
+
+[ 2015-12-12T23:51:02+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006108s ]
+
+[ 2015-12-12T23:51:02+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006250s ]
+
+[ 2015-12-12T23:51:02+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006266s ]
+
+[ 2015-12-12T23:51:02+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006348s ]
+
+[ 2015-12-12T23:51:03+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000365s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006095s ]
+
+[ 2015-12-12T23:51:22+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006398s ]
+
+[ 2015-12-12T23:51:54+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006027s ]
+
+[ 2015-12-12T23:52:15+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005973s ]
+
+[ 2015-12-12T23:53:37+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006039s ]
+
+[ 2015-12-12T23:56:13+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006632s ]
+
+[ 2015-12-12T23:56:37+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005941s ]
+
+[ 2015-12-12T23:56:53+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006402s ]
+
+[ 2015-12-12T23:56:53+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006161s ]
+
+[ 2015-12-12T23:56:53+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006371s ]
+
+[ 2015-12-12T23:56:54+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006101s ]
+
+[ 2015-12-12T23:56:54+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006137s ]
+
+[ 2015-12-12T23:56:54+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006264s ]
+
+[ 2015-12-12T23:56:55+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006412s ]
+
+[ 2015-12-12T23:56:55+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006448s ]
+
+[ 2015-12-12T23:56:55+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000255s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006321s ]
+
+[ 2015-12-12T23:56:55+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006144s ]
+
+[ 2015-12-12T23:56:56+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006396s ]
+
+[ 2015-12-12T23:56:56+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006404s ]
+
+[ 2015-12-12T23:56:56+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006109s ]
+
+[ 2015-12-12T23:56:57+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006313s ]
+
+[ 2015-12-12T23:56:57+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006128s ]
+
+[ 2015-12-12T23:56:57+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006128s ]
+
+[ 2015-12-12T23:56:57+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006390s ]
+
+[ 2015-12-12T23:56:58+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006248s ]
+
+[ 2015-12-12T23:56:58+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006558s ]
+
+[ 2015-12-12T23:56:58+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006425s ]
+
+[ 2015-12-12T23:57:43+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006385s ]
+
+[ 2015-12-12T23:57:43+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006022s ]
+
+[ 2015-12-12T23:57:43+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006354s ]
+
+[ 2015-12-12T23:57:44+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006147s ]
+
+[ 2015-12-12T23:57:44+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006250s ]
+
+[ 2015-12-12T23:57:44+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006427s ]
+
+[ 2015-12-12T23:57:44+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006423s ]
+
+[ 2015-12-12T23:57:45+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006194s ]
+
+[ 2015-12-12T23:57:45+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006402s ]
+
+[ 2015-12-12T23:57:45+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006439s ]
+
+[ 2015-12-12T23:57:46+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000487s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006388s ]
+
+[ 2015-12-12T23:57:46+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000541s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006370s ]
+
+[ 2015-12-12T23:57:46+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006431s ]
+
+[ 2015-12-12T23:57:46+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006003s ]
+
+[ 2015-12-12T23:57:47+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005975s ]
+
+[ 2015-12-12T23:57:47+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006133s ]
+
+[ 2015-12-12T23:57:47+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006455s ]
+
+[ 2015-12-12T23:57:48+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006301s ]
+
+[ 2015-12-12T23:57:48+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006576s ]
+
+[ 2015-12-12T23:57:48+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/Home/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007927s ]
+
+[ 2015-12-12T23:58:06+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006537s ]
+
+[ 2015-12-12T23:58:06+08:00 ] 192.168.1.2 /ThinkPHP_APP/TP_Message/index.php/Home/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006044s ]
+
